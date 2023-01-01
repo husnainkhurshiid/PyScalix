@@ -11,8 +11,6 @@ def read(fname):
 setup(
     name="PyScalix",
     version="0.0.6",
-    description="A package to convert csv files to SQLite  database and SQLite  database to csv files",
-    version="0.0.5",
     description="Python Package to convert csv files to SQLite database and SQLite database to csv files",
     long_description_content_type="text/markdown",
     long_description=read('README.md'),

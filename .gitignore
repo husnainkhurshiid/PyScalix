@@ -3,7 +3,7 @@ __pycache__/
 *$py.class
 main.py
 *.so
-
+PyScalix_Auth_Token.txt
 # Distribution / packaging
 .Python
 build/
