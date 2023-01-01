@@ -2,12 +2,27 @@
 
 # PyScalix
 
-A package to convert csv files to sqlite database and sqlite database to csv files
+Python package to convert Csv files to SQlite database and SQlite database back to csv file
 
 ## Functions
 
 - CsvtoSql( )
 - SqltoCsv( )
+
+## Installation Guidelines
+
+- windows
+  ```python
+  pip install Pyscalix
+  ```
+- macos/linux
+  ```python
+  pip3 install Pyscalix
+  ```
+- Latest version
+  ```python
+  pip install --upgrade PyScalix
+  ```
 
 ## Usage/Examples
 
@@ -17,19 +32,6 @@ import PyScalix
 PyScalix.CsvtoSql(csvfile)
 PyScalix.SqltoCsv(databasefile,table_name)
 ```
-
-```
-CsvtoSql() takes one parameter
-```
-
-- Database file
-
-```
-SqltoCsv() takes two parameters
-```
-
-- Database file
-- Table name
 
 ## Success Response
 
@@ -45,5 +47,5 @@ SqltoCsv() takes two parameters
 
 ## Authors
 
-- [Husnain Khurshid](https://www.github.com/mhusnainkh)
+- [Husnain Khurshid](https://www.github.com/husnain9)
 - [Usman Sadiq](https://www.github.com/usman-cs)
