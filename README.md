@@ -47,5 +47,5 @@ PyScalix.SqltoCsv(databasefile,table_name)
 
 ## Authors
 
-- [Husnain Khurshid](https://www.github.com/husnain9)
+- [Husnain Khurshid](https://www.github.com/husnainkhurshiid)
 - [Usman Sadiq](https://www.github.com/usman-cs)

@@ -14,7 +14,7 @@ setup(
     description="Python Package to convert csv files to SQLite database and SQLite database to csv files",
     long_description_content_type="text/markdown",
     long_description=read('README.md'),
-    url="https://github.com/husnain9/PyScalix.git",
+    url="https://github.com/husnainkhurshiid/PyScalix.git",
     keywords=['python', 'PyScalix', 'csv to sqlite',
               'sqlite to csv', 'csv', 'husnain khurshid'],
     author="Husnain Khurshid",
